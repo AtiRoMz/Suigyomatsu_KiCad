@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name Suigyomatsu-rescue)(type Legacy)(uri ${KIPRJMOD}/Suigyomatsu-rescue.lib)(options "")(descr ""))
+  (lib (name con_adns9800)(type Legacy)(uri C:/Users/ryory/MyKicadLib/con_adns9800.lib)(options "")(descr ""))
+  (lib (name ft232rl)(type Legacy)(uri C:/Users/ryory/MyKicadLib/ft232rl.lib)(options "")(descr ""))
+  (lib (name GitSTM)(type Legacy)(uri C:/Users/ryory/MyKicadLib/GitSTM.lib)(options "")(descr ""))
+  (lib (name l3gd20_akizuki)(type Legacy)(uri C:/Users/ryory/MyKicadLib/l3gd20_akizuki.lib)(options "")(descr ""))
+  (lib (name rq6e050at)(type Legacy)(uri C:/Users/ryory/MyKicadLib/rq6e050at.lib)(options "")(descr ""))
+  (lib (name upa2753gr)(type Legacy)(uri C:/Users/ryory/MyKicadLib/upa2753gr.lib)(options "")(descr ""))
+  (lib (name MicorMouseCL-cache)(type Legacy)(uri C:/Users/ryory/OneDrive/ドキュメント/MicorMouseCL/MicorMouseCL-cache.lib)(options "")(descr ""))
+  (lib (name Tracer_v2-cache)(type Legacy)(uri C:/Users/ryory/OneDrive/ドキュメント/Tracer_v2/Tracer_v2-cache.lib)(options "")(descr ""))
+)

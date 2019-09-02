@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Suigyomatsu)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri "$(KIPRJMOD)\\logo.pretty")(options "")(descr ""))
+)
